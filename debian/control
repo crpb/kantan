@@ -6,8 +6,8 @@ Build-Depends: debhelper (>= 5)
 Build-Depends-Indep: asciidoc, xsltproc, docbook-xsl
 Standards-Version: 3.9.1
 Homepage: http://grml.org/kantan/
-Vcs-git: git://git.grml.org/kantan.git
-Vcs-Browser: http://git.grml.org/?p=kantan.git
+Vcs-git: https://github.com/grml/kantan.git
+Vcs-Browser: https://github.com/grml/kantan
 
 Package: kantan
 Architecture: all
